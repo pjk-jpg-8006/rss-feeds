@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:lab="https://labradorcms.com/rss">
+    <channel>
+        <title>psykologisk</title>
+        <atom:link href="https://www.psykologisk.no/index?lab_viewport=rss" rel="self" type="application/rss+xml" />
+        <link>https://www.psykologisk.no</link>
+        <description>Artikler fra forsiden psykologisk</description>
+        <item>
+    <title><![CDATA[Ungdom i ny rapport: Får diag­noser uten for­klaring eller opp­følging]]></title>
+    <link>https://www.psykologisk.no/nyheter/ungdom-i-ny-rapport-far-diagnoser-uten-forklaring-eller-oppfolging/154389</link>
+    <guid>https://www.psykologisk.no/a/154389</guid>
+        <pubDate>Thu, 25 Jun 2026 18:21:38 GMT</pubDate>
+    <description><![CDATA[I en ny rapport forteller ungdom at de opplever møtet med BUP som generisk og hastig, med fokus på diagnose fremfor helhetlig hjelp. Flere har lav tillit til de voksne og føler seg maktesløse i møte med systemet, melder Voksne for Barn.]]></description>
+     <enclosure url="https://image.psykologisk.no/154392.jpg?imageId=154392&amp;panox=0.00&amp;panoy=0.00&amp;panow=100.00&amp;panoh=84.87&amp;heightx=20.59&amp;heighty=0.00&amp;heightw=34.76&amp;heighth=100.00&amp;width=1058&amp;height=478&amp;format=webp&amp;format=jpg" length="0" type="image/jpeg" />
+</item><item>
+    <title><![CDATA[Hjerne­skanninger av­slører to former for autisme]]></title>
+    <link>https://www.psykologisk.no/nyheter/hjerneskanninger-avslorer-to-former-for-autisme/154347</link>
+    <guid>https://www.psykologisk.no/a/154347</guid>
+        <pubDate>Thu, 25 Jun 2026 10:00:42 GMT</pubDate>
+    <description><![CDATA[Forskere har analysert tusenvis av hjerneskanninger, og avdekket to ulike mønstre i hjerneaktiviteten hos personer med autisme. Det tyder på at autisme kommer i flere varianter, mener forskerne.]]></description>
+     <enclosure url="https://image.psykologisk.no/154351.jpg?imageId=154351&amp;panox=0.00&amp;panoy=0.00&amp;panow=100.00&amp;panoh=100.00&amp;heightx=44.92&amp;heighty=0.00&amp;heightw=34.76&amp;heighth=100.00&amp;width=1058&amp;height=478&amp;format=webp&amp;format=jpg" length="0" type="image/jpeg" />
+</item></channel>
+</rss>
