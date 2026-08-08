@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:lab="https://labradorcms.com/rss">
     <channel>
-        <title>psykologisk</title>
+        <title>Psykologisk.no</title>
         <atom:link href="https://www.psykologisk.no/index?lab_viewport=rss" rel="self" type="application/rss+xml" />
         <link>https://www.psykologisk.no</link>
-        <description>Artikler fra forsiden psykologisk</description>
+        <description>Artikler fra forsiden Psykologisk.no</description>
 <item>
     <title><![CDATA[Sporene etter det vanligste barndoms­traumet]]></title>
     <link>https://www.psykologisk.no/nyheter/sporene-etter-det-vanligste-barndomstraumet/162421</link>
